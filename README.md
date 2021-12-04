@@ -1,6 +1,4 @@
-# GamePractices
-Hi! 
-这个2D平台跳跃小游戏是我在Video Games课程的大作业。可以体验一下哟~
+# GamePractices 
 
 使用方法：
 
